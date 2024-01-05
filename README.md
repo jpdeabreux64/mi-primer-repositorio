@@ -1,2 +1,2 @@
 # mi-primer-repositorio
-mi practica en GitHub en el curso
+mi primer readme
